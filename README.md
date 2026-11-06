@@ -116,7 +116,7 @@ MERN_LAB/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/mankirat13/MERN_LAB.git
+   git clone https://github.com/jagmeetmalhi09/MERN_LAB.git
    ```
 
 2. Open the repository folder in Visual Studio Code.
@@ -125,10 +125,10 @@ MERN_LAB/
 
 ## Author
 
-**Mankirat Singh**
+**Jagmeet Singh**
 
-GitHub: [@mankirat13](https://github.com/mankirat13)
+GitHub: [@mankirat13](https://github.com/jagmeetmalhi09)
 
 ## Repository Link
 
-[HTML & CSS Development Lab — MERN_LAB](https://github.com/mankirat13/MERN_LAB)
+[HTML & CSS Development Lab — MERN_LAB](https://github.com/jagmeetmalhi09/MERN_LAB)

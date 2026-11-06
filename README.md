@@ -127,7 +127,7 @@ MERN_LAB/
 
 **Jagmeet Singh**
 
-GitHub: [@mankirat13](https://github.com/jagmeetmalhi09)
+GitHub: [@jagmeetmalhi09](https://github.com/jagmeetmalhi09)
 
 ## Repository Link
 
